@@ -1,4 +1,4 @@
-# foodordering
+# Food Ordering Android App
 
 - Android front-end UI for customers and admins
 - Restaurants and dish browsing, shopping cart, ordering/pick-up functionality 
